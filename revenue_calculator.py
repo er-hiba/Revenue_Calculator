@@ -18,4 +18,3 @@ R = T * P
 # The currency symbol will be placed before the amount.
 # The revenue is formatted with two decimal places for clarity.
 print("The revenue is:",Symbol, round(R, 2))
-
